@@ -1,0 +1,28 @@
+{
+  "name": "koa-loader",
+  "version": "0.0.0",
+  "description": "loader middleware for koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/refox-server/koa-loader.git"
+  },
+  "keywords": [
+    "koa",
+    "koajs",
+    "middleware",
+    "loader",
+    "loaders",
+    "compile",
+    "compiler"
+  ],
+  "author": "fengzilong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/refox-server/koa-loader/issues"
+  },
+  "homepage": "https://github.com/refox-server/koa-loader#readme"
+}
